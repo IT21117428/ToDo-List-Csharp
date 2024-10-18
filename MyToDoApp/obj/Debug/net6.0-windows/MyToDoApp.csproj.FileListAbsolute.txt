@@ -1,0 +1,16 @@
+C:\Users\kavee\source\repos\MyToDoApp\MyToDoApp\bin\Debug\net6.0-windows\MyToDoApp.exe
+C:\Users\kavee\source\repos\MyToDoApp\MyToDoApp\bin\Debug\net6.0-windows\MyToDoApp.deps.json
+C:\Users\kavee\source\repos\MyToDoApp\MyToDoApp\bin\Debug\net6.0-windows\MyToDoApp.runtimeconfig.json
+C:\Users\kavee\source\repos\MyToDoApp\MyToDoApp\bin\Debug\net6.0-windows\MyToDoApp.dll
+C:\Users\kavee\source\repos\MyToDoApp\MyToDoApp\bin\Debug\net6.0-windows\MyToDoApp.pdb
+C:\Users\kavee\source\repos\MyToDoApp\MyToDoApp\obj\Debug\net6.0-windows\MyToDoApp.Form1.resources
+C:\Users\kavee\source\repos\MyToDoApp\MyToDoApp\obj\Debug\net6.0-windows\MyToDoApp.csproj.GenerateResource.cache
+C:\Users\kavee\source\repos\MyToDoApp\MyToDoApp\obj\Debug\net6.0-windows\MyToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavee\source\repos\MyToDoApp\MyToDoApp\obj\Debug\net6.0-windows\MyToDoApp.AssemblyInfoInputs.cache
+C:\Users\kavee\source\repos\MyToDoApp\MyToDoApp\obj\Debug\net6.0-windows\MyToDoApp.AssemblyInfo.cs
+C:\Users\kavee\source\repos\MyToDoApp\MyToDoApp\obj\Debug\net6.0-windows\MyToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\kavee\source\repos\MyToDoApp\MyToDoApp\obj\Debug\net6.0-windows\MyToDoApp.dll
+C:\Users\kavee\source\repos\MyToDoApp\MyToDoApp\obj\Debug\net6.0-windows\refint\MyToDoApp.dll
+C:\Users\kavee\source\repos\MyToDoApp\MyToDoApp\obj\Debug\net6.0-windows\MyToDoApp.pdb
+C:\Users\kavee\source\repos\MyToDoApp\MyToDoApp\obj\Debug\net6.0-windows\MyToDoApp.genruntimeconfig.cache
+C:\Users\kavee\source\repos\MyToDoApp\MyToDoApp\obj\Debug\net6.0-windows\ref\MyToDoApp.dll
